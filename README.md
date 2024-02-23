@@ -4,16 +4,12 @@
 Olá, me chamo Rafael! 
 Sempre fui curioso e sempre procurei entender como tudo funciona, tive meu primeiro contato com computadores e jogos por volta dos meus 12 anos de idade, e desde então, abria os arquivos dos jogos e tentava entender como tudo funcionava, até que aprendi a editar e até a criar alguns arquivos XML e modificar vários aspectos dos jogos, foi ali que percebi a magnitude do que seria possível realizar, e me apaixonei pela programação, literalmente escrever linhas de código e ver as coisas acontecendo foi sensacional, e desde então, eu procuro me aprofundar e obter conhecimento na área de desenvolvimento como um todo, e não exclusivamente na área de jogos.
 
-
-Já trabalhei por alguns anos como Analista de Service Desk, possuindo familiaridade com as ferramentas da área e estou migrando para a área de Desenvolvimento de Software e Automação.
-
 Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educacional.
+Fazendo o curso de 18 semanas CS50 de Introdução a Ciência Da Computação de Harvard em paralelo a faculdade
 Possuo conhecimento básico em Html5, CSS3, Python3, Git & Github.
 Meu objetivo é adquirir conhecimento tanto em Frontend quanto no Backend, para ajudar o time de Devs do início ao fim no desenvolvimento de projetos.
 
 
-Se identificou com o meu perfil? Então deixo meu email para que possamos conversar:
-Email: rafael_xrs@hotmail.com
 
 
 <div style="display: inline_block"><br>
