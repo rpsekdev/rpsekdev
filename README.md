@@ -7,7 +7,7 @@ Sempre fui curioso e sempre procurei entender como tudo funciona, tive meu prime
 Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educacional.
 Fazendo o curso de 18 semanas CS50 de Introdução a Ciência Da Computação de Harvard em paralelo a faculdade
 Possuo conhecimento básico em Html5, CSS3, Python3, Git & Github.
-Meu objetivo é adquirir conhecimento tanto em Frontend quanto no Backend, para ajudar o time de Devs do início ao fim no desenvolvimento de projetos.
+
 
 
 
