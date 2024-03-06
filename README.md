@@ -27,7 +27,7 @@ Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educac
   <img align="center" alt="Rafa-VScode" height="30" width="80" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Rafa-Pycharm" height="30" width="90" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
   <img align="center" alt="Rafa-Pycharm" height="30" width="90" src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white">
-  <img align="center" alt="Rafa-Pycharm" height="30" width="90" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img align="center" alt="Rafa-Pycharm" height="30" width="100" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
   
   ##
