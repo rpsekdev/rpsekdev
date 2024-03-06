@@ -5,8 +5,7 @@ Olá, me chamo Rafael!
 Sempre fui curioso e sempre procurei entender como tudo funciona, tive meu primeiro contato com computadores e jogos por volta dos meus 12 anos de idade, e desde então, abria os arquivos dos jogos e tentava entender como tudo funcionava, até que aprendi a editar e até a criar alguns arquivos XML e modificar vários aspectos dos jogos, foi ali que percebi a magnitude do que seria possível realizar, e me apaixonei pela programação, literalmente escrever linhas de código e ver as coisas acontecendo foi sensacional, e desde então, eu procuro me aprofundar e obter conhecimento na área de desenvolvimento como um todo, e não exclusivamente na área de jogos.
 
 Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educacional.
-Fazendo o curso de 18 semanas CS50 de Introdução a Ciência Da Computação de Harvard em paralelo a faculdade
-Possuo conhecimento básico em Html5, CSS3, Python3, Git & Github.
+
 
 
 
