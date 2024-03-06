@@ -19,12 +19,6 @@ Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educac
 
 
 
-  href="https://github.com/rpsekdev/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpsekdev&layout=compact&langs_count=8&theme=darkcard_width=320" />
-
-
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
