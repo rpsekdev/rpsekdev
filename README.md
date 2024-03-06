@@ -6,24 +6,22 @@ Sempre fui curioso e sempre procurei entender como tudo funciona, tive meu prime
 Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educacional.
 
 ## About me
-
- <div> 
+<div> 
  	<a href="https://www.twitch.tv/kidanu_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafael_xrs@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-pereira-b14bb3bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/rpsekdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
  </div>
 
-##
+## Language and Tools
+  [![Rpsekdev GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsekdev)](https://github.com/rpsekdev/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-<a href="https://github-readme-stats.vercel.app/api?username=rpsekdev&show_icons=true&theme=dark">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rpsekdev"/>
-</a>
-<br>
-<a
+
+
   href="https://github.com/rpsekdev/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpsekdev&layout=compact&langs_count=8&theme=darkcard_width=320" />
-</a>
+
 
 
 
