@@ -9,10 +9,11 @@ Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educac
 <div> 
  	<a href="https://www.linkedin.com/in/rafael-pereira-b14bb3bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="mailto:rafael_xrs@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/kidanu_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=yellow" target="_blank"></a>
   <a href="https://github.com/rpsekdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitch.tv/kidanu_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=yellow" target="_blank"></a> 
   <a href="https://steamcommunity.com/profiles/76561198166362997/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
- </div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
+</div>
 
 ## Language and Tools
   [![Rpsekdev GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsekdev)](https://github.com/rpsekdev/github-readme-stats)
