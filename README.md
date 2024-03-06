@@ -8,9 +8,8 @@ Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educac
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=rpsekdev&show_icons=true&theme=transparent">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rpsekdev" />
-</a>
-<a href="https://github.com/rpsekdev/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rpsekdev">
+  <href="https://github.com/rpsekdev/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpsekdev&layout=compact&langs_count=8&card_width=320" />
 </a>
 
