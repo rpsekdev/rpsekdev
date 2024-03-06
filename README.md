@@ -7,7 +7,12 @@ Sempre fui curioso e sempre procurei entender como tudo funciona, tive meu prime
 Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educacional.
 
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+<a href="https://github.com/rpsekdev/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rpsekdev" />
+</a>
+<a href="https://github.com/rpsekdev/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpsekdev&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
