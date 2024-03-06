@@ -15,7 +15,7 @@ Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educac
 </div>
 
 ## Language and Tools
-  [![Rpsekdev GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsekdev)](https://github.com/rpsekdev/github-readme-stats)
+  [![Rpsekdev GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsekdev)](https://github.com/rpsekdev/github-readme-stats&theme=shadow_red)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpsekdev&layout=compact&theme=shadow_red)
 
  
