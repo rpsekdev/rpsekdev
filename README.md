@@ -7,6 +7,12 @@ Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educac
 
 ## About me
 
+ <div> 
+ 	<a href="https://www.twitch.tv/kidanu_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rafael_xrs@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-pereira-b14bb3bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/rpsekdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+ </div>
 
 <a href="https://github-readme-stats.vercel.app/api?username=rpsekdev&show_icons=true&theme=dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rpsekdev"/>
@@ -26,12 +32,7 @@ Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educac
   
   ##
    
-  <div> 
- 	<a href="https://www.twitch.tv/kidanu_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rafael_xrs@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-pereira-b14bb3bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/rpsekdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
- </div>
+ 
 
 <!---
 rpsekdev/rpsekdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
