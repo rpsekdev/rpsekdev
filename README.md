@@ -12,7 +12,7 @@ Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educac
   <a href="https://github.com/rpsekdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/kidanu_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=yellow" target="_blank"></a> 
   <a href="https://steamcommunity.com/profiles/76561198166362997/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src=""> 
+  <a href="https://www.instagram.com/rpsek_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
 </div>
 
 ## Language and Tools
