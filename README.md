@@ -15,8 +15,8 @@ Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educac
 </div>
 
 ## Language and Tools
-  [![Rpsekdev GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsekdev&theme=ayu-mirage)](https://github.com/rpsekdev/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpsekdev&layout=compact&theme=ayu-mirage)
+  [![Rpsekdev GitHub stats](https://github-readme-stats.vercel.app/api?username=rpsekdev&theme=ayu-mirage&locale=pt-br)](https://github.com/rpsekdev/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpsekdev&layout=compact&theme=ayu-mirage&locale=pt-br)
 
  
 <div style="display: inline_block"><br>
