@@ -1,13 +1,12 @@
 
-## 
-Olá, me chamo Rafael!\ 
-Sempre fui curioso e sempre procurei entender como tudo funciona, tive meu primeiro contato com computadores e jogos por volta dos meus 12 anos de idade, e desde então, abria os arquivos dos jogos e tentava entender como tudo funcionava, até que aprendi a editar e até a criar alguns arquivos XML e modificar vários aspectos dos jogos, foi ali que percebi a magnitude do que seria possível realizar, e me apaixonei pela programação, literalmente escrever linhas de código e ver as coisas acontecendo foi sensacional, e desde então, eu procuro me aprofundar e obter conhecimento na área de desenvolvimento como um todo, e não exclusivamente na área de jogos.
-Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educacional.\
-
+## Olá, me chamo Rafael!\ 
+Sempre fui curioso e sempre procurei entender como tudo funciona, tive meu primeiro contato com computadores e jogos por volta dos meus 12 anos de idade, e desde então, abria os arquivos dos jogos e tentava entender como tudo funcionava, até que aprendi a editar e até a criar alguns arquivos XML e modificar vários aspectos dos jogos, foi ali que percebi a magnitude do que seria possível realizar, e me apaixonei pela programação, literalmente escrever linhas de código e ver as coisas acontecendo foi sensacional, e desde então, eu procuro me aprofundar e obter conhecimento na área de desenvolvimento como um todo, e não exclusivamente na área de jogos.\
+- Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educacional.\
+\
 en-us\
 Hello! My name is Rafael!\
-I was always curious and always tried to understand how everything works, I had my first contact with computers and games when I was around 12 years old, and since then, I opened game files and tried to understand how everything worked, until I learned to edit some XML files and modify aspects of the games, it was there that I realized the magnitude of what could be accomplished, and I fell in love with programming, literally writing lines of code and seeing things happening was sensational, and since then, I've tried to delve deeper and get knowledge in the area of ​​development as a whole, and not exclusively in the area of ​​games.
-Studying Systems Analysis and Development at Anhanguera Educacional College.
+I was always curious and always tried to understand how everything works, I had my first contact with computers and games when I was around 12 years old, and since then, I opened game files and tried to understand how everything worked, until I learned to edit some XML files and modify aspects of the games, it was there that I realized the magnitude of what could be accomplished, and I fell in love with programming, literally writing lines of code and seeing things happening was sensational, and since then, I've tried to delve deeper and get knowledge in the area of ​​development as a whole, and not exclusively in the area of ​​games.\
+- Studying Systems Analysis and Development at Anhanguera Educacional College.
 
 
 ## About me
