@@ -14,9 +14,12 @@ Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educac
   <a href="https://github.com/rpsekdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
  </div>
 
+##
+
 <a href="https://github-readme-stats.vercel.app/api?username=rpsekdev&show_icons=true&theme=dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rpsekdev"/>
 </a>
+<br>
 <a
   href="https://github.com/rpsekdev/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpsekdev&layout=compact&langs_count=8&card_width=320" />
