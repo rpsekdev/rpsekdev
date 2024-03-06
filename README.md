@@ -7,7 +7,7 @@ Sempre fui curioso e sempre procurei entender como tudo funciona, tive meu prime
 Cursando Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera Educacional.
 
 
-
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 
